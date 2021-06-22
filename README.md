@@ -1,5 +1,5 @@
 # voxel_obj_lib_in_cpp
-This is a simple libary for creating obj voxel files in cpp (tested only in ubuntu)
+This is a simple libary for creating obj voxel files with cpp (tested only in ubuntu)
 in the backend i use https://github.com/martinpflaum/multidimensional_array_cpp
 
 view main.cpp to see how it's used. WorldGrid takes as first parameter the worldgridsize meaning x,y,z coordinates of 3Dworld.
