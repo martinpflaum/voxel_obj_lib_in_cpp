@@ -13,3 +13,4 @@ the obj() function returns the string that contains the objfile
  worldGrid.setitem(1,1,1,2);
  auto complete_file = worldGrid.obj();
  ```
+If you hate type safe languages as much as i do checkout ObjectExperimental.hpp to see how to write type unsafe code in c++ :))
